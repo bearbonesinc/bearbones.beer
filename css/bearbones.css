@@ -146,3 +146,7 @@ div#dialog {
 .bold {
   font-weight: bold;
 }
+
+.location {
+    text-decoration: line-through;
+}
